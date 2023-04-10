@@ -1,0 +1,46 @@
+ body {
+background-repeat: no-repeat;
+background-size: 1400px 1000px ;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5pc;
+    color: white;
+}
+
+div {
+    text-align: center;
+    font-size: 4pc;
+    color: white;
+}
+
+div.img {
+
+}
+
+span.rr {
+    color: red;
+}
+
+span.ee {
+    color: blue;
+}
+
+span.ll {
+    color: yellow;
+}
+
+span.oo {
+    color: red;
+}
+span.gg{
+    color: blue;
+}
+span.ii{
+    color: yellow;
+}
+span.ooo{
+    color: red;
+}
+
